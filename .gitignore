@@ -1,0 +1,44 @@
+# Sistema
+*.DS_Store
+*.swp
+*.swo
+*.swn
+
+# Diretórios de sistema operacional
+venv/
+__pycache__/
+
+# Python
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info
+*.coverage
+*.log
+
+# Migrations do Django
+**/migrations/*
+
+# Banco de dados
+*.sqlite3
+*.db
+
+# Arquivos de configuração de IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos estáticos gerados
+staticfiles/
+media/
+
+# Ambiente virtual
+env/
+venv/
+
+# Outros
+*.bak
+*.tmp
